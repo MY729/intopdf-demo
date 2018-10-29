@@ -2,6 +2,7 @@
   "name": "intopdf",
   "version": "1.0.0",
   "description": "A Vue.js project",
+  "homepage": "https://my729.github.io/intopdf-demo/",
   "author": "MY729 <635959523@qq.com>",
   "private": true,
   "scripts": {
