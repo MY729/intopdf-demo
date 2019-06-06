@@ -83,7 +83,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   npm install jspdf --save
 
 使用：
-```
+```vue
 <template>
   <div class="hello">
     <button @click="save">点击</button>    
